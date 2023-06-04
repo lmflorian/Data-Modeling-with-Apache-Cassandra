@@ -10,7 +10,7 @@ A startup named Sparkify has been collecting data on songs and user activity thr
 **Content**
 
 1.	[event_data](./event_data) is the directory of CSV files partitioned by date.
-2.	[Project_1B_ Project_Template.ipynb](Project_1B_ Project_Template.ipynb) has the code for the ETL pipeline and data modeling
+2.	[Project_1B_ Project_Template.ipynb](https://github.com/lmflorian/Data-Modeling-with-Apache-Cassandra/blob/main/Project_1B_%20Project_Template.ipynb) has the code for the ETL pipeline and data modeling
 
 **Goals**
 
